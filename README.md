@@ -1,4 +1,4 @@
-# Basic Recommendation_System built Using Suprise Module 
+# Basic Recommendation System built Using Suprise Module 
 
 Collaborative Filtering Implemented Using Single Value Decomposition
 
