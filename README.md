@@ -17,3 +17,5 @@ https://towardsdatascience.com/evaluating-a-real-life-recommender-system-error-b
 https://github.com/NicolasHug/Surprise/blob/master/examples/top_n_recommendations.py
 
 https://surprise.readthedocs.io/en/latest/FAQ.html#how-to-compute-precision-k-and-recall-k
+
+https://medium.com/human-in-a-machine-world/mae-and-rmse-which-metric-is-better-e60ac3bde13d
